@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @brifemu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🎓 Knowledge
 
-<!---
-brifemu/brifemu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
@@ -22,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 ![WORDPRESS](https://img.icons8.com/fluency/48/000000/wordpress.png)
 ![VSCODE](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
-# STATISTICS
+# 📊 Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brifemu&theme=radical)
